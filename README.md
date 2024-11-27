@@ -8,7 +8,7 @@ I'm Luis Siveleque, a dedicated developer deeply passionate about fostering inno
 - 🌱 Currently, I'm immersed in mastering advanced JavaScript frameworks, mobile app development.
 - 💼 As a proficient no-code programmer, I excel in platforms like Appsheet, complemented by my background in business management.
 - 💞️ I'm enthusiastic about collaborating on open-source projects and ambitious tech ventures.
-- 📫 You can reach me via email at [luis.siveleque@outlook.com](mailto:luis.siveleque@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername).
+- 📫 You can reach me via email at [luis.siveleque@outlook.com](mailto:luils.siveleque@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername).
 - 😄 Fun fact: I am deeply committed to innovation and constantly explore new ideas to drive progress and excellence.
 
 <!---
